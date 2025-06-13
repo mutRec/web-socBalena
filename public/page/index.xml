@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on sócBalena</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on sócBalena</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacte</title>
+      <link>http://localhost:1313/page/contacte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/contacte/</guid>
+      <description>&lt;h3 id=&#34;informació&#34;&gt;Informació&lt;/h3&gt;&#xA;&lt;p&gt;Desde &lt;strong&gt;sócBalena&lt;/strong&gt; treballo en la creació i millora d&amp;rsquo;un blog senzill per enregistrar informació sobre el món del busseig.&lt;/p&gt;&#xA;&lt;p&gt;Això mateix. Pretenc anar anotant a base d&amp;rsquo;articles, informació que pot ser útil per planificar immersions, conèixer llocs pràctics per realitzar immsersions senzilles i a ser possible totalment lliures i sense la presència de centres de busseig.&lt;/p&gt;&#xA;&lt;p&gt;No tinc res en contra a els centres de busseig i amb els seus negocis&amp;hellip; ans el contrari!! però sí que m&amp;rsquo;agradarà recopilar informació per el gaudi i la pràctica d&amp;rsquo;un busseig lent, anàrquic i totalment lliure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

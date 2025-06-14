@@ -98,24 +98,24 @@ pygmentsCodefencesGuessSyntax = true
     weight = 1
 
 [[menu.main]]
-    identifier = "samples"
-    name = "Samples"
+    identifier = "seccions"
+    name = "Menú Principal"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
+    parent = "seccions"
+    name = "Punts Immersions"
     url = "post/2017-03-07-bigimg-sample"
     weight = 1
 
 [[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
+    parent = "seccions"
+    name = "Galeria Fotogràfica"
     url = "post/2017-03-05-math-sample"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
+    parent = "seccions"
     name = "Diari Busseig"
     url = "https://sb-diaribusseig.abellot.net"
     weight = 3

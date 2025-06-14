@@ -2,59 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on sócBalena</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on sócBalena</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fira</title>
+      <link>https://example.org/tags/fira/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/fira/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saló</title>
+      <link>https://example.org/tags/sal%C3%B3/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/sal%C3%B3/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Bateig</title>
-      <link>http://localhost:1313/tags/bateig/</link>
+      <link>https://example.org/tags/bateig/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bateig/</guid>
+      <guid>https://example.org/tags/bateig/</guid>
       <description></description>
     </item>
     <item>
       <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
+      <link>https://example.org/tags/example/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/example/</guid>
+      <guid>https://example.org/tags/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Photoswipe</title>
-      <link>http://localhost:1313/tags/photoswipe/</link>
+      <link>https://example.org/tags/photoswipe/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/photoswipe/</guid>
+      <guid>https://example.org/tags/photoswipe/</guid>
       <description></description>
     </item>
     <item>
       <title>Bigimg</title>
-      <link>http://localhost:1313/tags/bigimg/</link>
+      <link>https://example.org/tags/bigimg/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bigimg/</guid>
+      <guid>https://example.org/tags/bigimg/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>http://localhost:1313/tags/math/</link>
+      <link>https://example.org/tags/math/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/math/</guid>
+      <guid>https://example.org/tags/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>http://localhost:1313/tags/code/</link>
+      <link>https://example.org/tags/code/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/code/</guid>
+      <guid>https://example.org/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://example.org/tags/markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://example.org/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>

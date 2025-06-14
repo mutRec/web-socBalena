@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saló on sócBalena</title>
-    <link>https://example.org/tags/sal%C3%B3/</link>
+    <link>http://localhost:1313/tags/sal%C3%B3/</link>
     <description>Recent content in Saló on sócBalena</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/sal%C3%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sal%C3%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Saló de la Immersió</title>
-      <link>https://example.org/post/2020-02-29-salo-immersio/</link>
+      <link>http://localhost:1313/post/2020-02-29-salo-immersio/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/post/2020-02-29-salo-immersio/</guid>
+      <guid>http://localhost:1313/post/2020-02-29-salo-immersio/</guid>
       <description>&lt;p&gt;Un any més, es va celebrar el Saló de la Immersió, el Mediterranean Diving Show. Vaig conèixer de la seva existència gràcies al CIB.&lt;/p&gt;&#xA;&lt;p&gt;Segons sembla, es celebra cada any a mitjans de Febrer, i és un espai on totes les marques, clubs, centres de busseig exposen als estands, les seves propostes, ofertes i es donen a conèixer.&lt;/p&gt;&#xA;&lt;p&gt;Com a seguidor del CIB (soci), vaig veure com aquest va muntar i participar d’un estand oferint les activitats de cara el 2020, així com una xerrada per promocionar la seva activitat i convidar a tothom a fer-se’n soci. Bravo!&lt;/p&gt;</description>
     </item>
   </channel>

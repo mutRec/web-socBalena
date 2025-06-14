@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bateig on sócBalena</title>
-    <link>https://example.org/tags/bateig/</link>
+    <link>http://localhost:1313/tags/bateig/</link>
     <description>Recent content in Bateig on sócBalena</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/bateig/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bateig/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bateig Submarinisme</title>
-      <link>https://example.org/post/2020-02-23-bateig-submarinisme/</link>
+      <link>http://localhost:1313/post/2020-02-23-bateig-submarinisme/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/post/2020-02-23-bateig-submarinisme/</guid>
+      <guid>http://localhost:1313/post/2020-02-23-bateig-submarinisme/</guid>
       <description>&lt;p&gt;Hola, amics,&lt;/p&gt;&#xA;&lt;p&gt;El passat &lt;strong&gt;9 de juny de 2019&lt;/strong&gt; vaig començar la meva aventura en el món del busseig. Fins al moment, només havia practicat tubeig recreatiu (snorkel) d’una manera senzilla.&lt;/p&gt;&#xA;&lt;p&gt;Després d’entusiasmar-me amb l’Eduard (pare de l’escola Mireia de Barcelona) em vaig animar a provar un ‘bateig de submarinisme’.&lt;/p&gt;&#xA;&lt;p&gt;Aquest, consistia a submergir-se amb un equip complet conformat per un de lleuger (màscara, tub, aletes i vestit isotèrmic de neoprè) més un de pesat (ampolla, regulador, xaleco ó jacket BSD) i cinturó de ploms.&lt;/p&gt;</description>
     </item>
   </channel>
